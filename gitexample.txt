@@ -1,4 +1,1 @@
-Esta es la primera edicion (creacion) del archivo 'gitexample.txt'.
-Aca se agrega la segunda edicion del archivo.
-Aca se agrega la tercera edicion del archivo y se elimina el contenido anterior de la linea.
-Aca se agrega la cuarta edicion del archivo.
+Se ha eliminado todo el contenido anterior. Ahora este es el contenido final.
